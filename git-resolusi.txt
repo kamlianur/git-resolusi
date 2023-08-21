@@ -3,4 +3,4 @@ GIT RESOLUSI
 - Percoban github
 - Percobaan javascript
 - Percobaan typescript
-- Percobaan Solidity
+- Percobaan NodeJs
