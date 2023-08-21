@@ -2,3 +2,5 @@ GIT RESOLUSI
 - Percobaan git
 - Percoban github
 - Percobaan javascript
+- Percobaan typescript
+- Percobaan Solidity
