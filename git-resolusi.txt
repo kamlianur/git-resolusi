@@ -1,0 +1,4 @@
+GIT RESOLUSI
+- Percobaan git
+- Percoban github
+- Percobaan javascript
