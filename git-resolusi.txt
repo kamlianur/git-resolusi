@@ -2,5 +2,7 @@ GIT RESOLUSI
 - Percobaan git
 - Percoban github
 - Percobaan javascript
+  * ES 6
+  * Framework Javascript
 - Percobaan typescript
 - Percobaan NodeJs
